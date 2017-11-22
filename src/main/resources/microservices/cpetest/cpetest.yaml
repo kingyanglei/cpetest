@@ -4,7 +4,7 @@ info:
   version: "1.0.0"
   title: "rest test"
   x-java-interface: "com.service.controller.Cpetest"
-basePath: "/test01"
+basePath: "/kingyl"
 schemes:
 - "http"
 produces:
