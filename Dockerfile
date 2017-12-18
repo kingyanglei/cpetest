@@ -1,4 +1,4 @@
-FROM 100.125.0.198:20202/hwcse/dockerhub-java:8-jre-alpine
+FROM 100.125.0.237:20202/hwcse/dockerhub-java:8-jre-alpine
 
 WORKDIR /home/apps/
 ADD target/cydtest1123-1.0.0.jar .
